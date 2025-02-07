@@ -1,5 +1,5 @@
 {
-  "name": "25_week-25-devops",
+  "name": "25_week-25-ci-next",
   "private": true,
   "scripts": {
     "build": "turbo build",

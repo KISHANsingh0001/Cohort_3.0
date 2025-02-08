@@ -1,5 +1,5 @@
 {
-  "name": "25_week-25-ci-next",
+  "name": "25_week-23_ci-next",
   "private": true,
   "scripts": {
     "build": "turbo build",

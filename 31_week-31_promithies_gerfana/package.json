@@ -1,0 +1,17 @@
+{
+  "name": "31_week-31_promithies_gerfana",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "express": "^4.21.2",
+    "prom-client": "^15.1.3"
+  }
+}
